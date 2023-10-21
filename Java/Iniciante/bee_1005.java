@@ -1,4 +1,4 @@
-package Java.Iniciante;
+
 
 import java.io.IOException;
 import java.util.Scanner ;
